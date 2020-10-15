@@ -78,3 +78,10 @@
 项目地址：https://github.com/jellyhappy/filter_autocomplete<br/>
 最新版本：12.1<br/>
 排期版本：13.1<br/>
+
+## [仓库]库存预警模块
+
+产品信息中新增一个预警数量，当仓库数量低于此值时通过邮件、短信或弹窗方式提示库存不足。
+
+项目地址：https://github.com/jellyhappy/stock_qty_warning<br/>
+排期版本：13.1<br/>
