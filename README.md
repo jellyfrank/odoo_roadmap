@@ -24,8 +24,8 @@
 
 项目地址: https://github.com/jellyhappy/baidu_map<br/>
 已支持odoo版本：13.0<br/>
-最新版本：13.2<br/>
-排期版本：12.1<br/>
+最新版本：13.3<br/>
+排期版本：14.1<br/>
 
 ## [通用]树形列表背景颜色
 
