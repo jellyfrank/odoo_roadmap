@@ -36,7 +36,6 @@
 最新版本：12.1<br/>
 排期版本：13.1<br/>
 
-
 ## [仓库]实际可用库存
 
 实际可用库存模块在产品信息中实时显示一个当前可用库存数量，即去掉已被保留尚未出库的数量。
@@ -59,9 +58,9 @@
 微信公众号模块，集成微信公众号管理功能到odoo中[详情](http://blog.odoomommy.com/2020/02/17/odoo-wechat-manager/)
 
 项目地址：https://github.com/jellyhappy/wechat_odoo<br/>
-已支持版本：13.0<br/>
-最新版本：13.5<br/>
-排期版本：14.1<br/>
+已支持版本：13.0 14.0<br/>
+最新版本：14.1<br/>
+排期版本：14.2<br/>
 
 ## [通用]微信公众号媒体上传控件
 
@@ -85,3 +84,19 @@
 
 项目地址：https://github.com/jellyhappy/stock_qty_warning<br/>
 排期版本：13.1<br/>
+
+## [通用]七巧板
+
+个性化odoo配置助手
+
+项目地址：https://github.com/jellyhappy/customize_assistant<br/>
+当前版本：14.1
+排期版本：14.2
+
+## [仓库]顺丰物流
+
+对接丰桥系统，实现在线下单，物流跟踪等功能。
+
+项目地址：https://github.com/jellyhappy/stock_sf_connector
+当前版本：13.1
+排期版本：13.2
